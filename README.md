@@ -1,7 +1,7 @@
 # NotFlappy
 
 ## Overview
-NotFlappy is a simple and addictive game built using Swift and SpriteKit. It mimics the classic NotFlappy gameplay where the player controls a bird, guiding it through a series of pipes, trying to achieve the highest score possible.
+NotFlappy is a simple and addictive game built using Swift and SpriteKit. The player controls a bird, guiding it through a series of pipes, trying to achieve the highest score possible.
 
 <img src="https://github.com/ndubauskas/NotFlappy/blob/main/NotFlappy/screenshots/gameplay.png" width="30%">
 
